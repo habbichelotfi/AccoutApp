@@ -1,4 +1,4 @@
-# test_app2
+# AccountApp
 
 A new Flutter application.
 
